@@ -5,7 +5,7 @@ v = views ->filename--> views.py -> Bussiness logic
 T = Templates ->filename--> HTML -> Presentation logic
 
 
-![MVTFlow](https://www.interviewbit.com/blog/wp-content/uploads/2022/06/Model-768x263.png)
+![MVTFlow](https://github.com/tedy-art/Django/blob/main/myfirstproject/imgs/M_V_T.png)
 
 
 Step 1 :- How to install virtual environment??

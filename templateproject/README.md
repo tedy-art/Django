@@ -71,4 +71,4 @@ step 9:templateproject-> urls.py
 step 10: in terminal -> run this command:
                 ->py manage.py runserver
                         -> http://127.0.0.1:8000
-                        
+                        ![Html template](https://github.com/tedy-art/Django/blob/main/templateproject/templateapp/templates/templateapp/WhatsApp%20Image%202023-01-16%20at%2011.36.37%20PM.jpeg)

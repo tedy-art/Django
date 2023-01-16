@@ -11,7 +11,7 @@ step 2: django-admin startproject templateproject
 
 step 3: cd templateproject
 
-step 4: python manage.py startapp demoapp
+step 4: python manage.py startapp templateapp
 
 step 5: code . {for open VS code}
 

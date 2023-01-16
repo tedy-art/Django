@@ -123,4 +123,4 @@ step 11: staticproject-> urls.py
 step 12: new terminal
             ->python manage.py runserver
                     -> http://127.0.0.1:8000/
-                    
+                    ![screenshot](https://github.com/tedy-art/Django/blob/main/staticproject/staticapp/static/images/screenshot.jpeg)

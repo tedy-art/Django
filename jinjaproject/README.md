@@ -1,21 +1,34 @@
 **jinja 2 templates in html**
 ->  if we want to execute python line logic in HTML then use jinja 2 templates.
 
-**jinja code**                    |              **Python code**
-----------------------------------+--------------------------------
-{{data}}                          |              print(data)
-                                  |
-                                  |
-{% if condition %}                |              if condtion:
-        tags                      |                  logic
-{% else %}                        |              else:
-        tags                      |                  logic
-{% end if %}                      |  
-                                  |  
-                                  |  
-{% for i in sequence%}            |              for i in sequence:
-        tags                      |                  logic
-{% endfor %}                      |
+**jinja code**                                  
+
+{{data}}                                        
+
+**Python code**
+print(data)
+                                  
+**jinja code**                                  
+{% if condition %}                              
+        tags                                        
+{% else %}                                      
+        tags                                        
+{% end if %}                        
+
+**Python code**                                    
+if condtion:                                    
+     logic    
+else: 
+    logic       
+
+**Jinja code**                            
+{% for i in sequence%}                          
+        tags                                        
+{% endfor %}    
+
+**Python code**                                    
+for i in sequence:
+    logic
 ----------------------------------+---------------------------------
 
 step 1: Suppose we have database(dictionary):

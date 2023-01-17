@@ -91,4 +91,4 @@ e.g. "settings.py"
     ]
 
 step 7:jinjaapp-> templates-> jinjaapp-> display.html
-![jinjaPRINT]()
+![jinjaPRINT](https://github.com/tedy-art/Django/blob/main/jinjaproject/jinjaapp/templates/jinjaapp/SharedScreenshot.jpg)

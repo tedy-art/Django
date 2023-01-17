@@ -91,3 +91,4 @@ e.g. "settings.py"
     ]
 
 step 7:jinjaapp-> templates-> jinjaapp-> display.html
+![jinjaPRINT]()

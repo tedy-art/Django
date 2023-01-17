@@ -5,7 +5,6 @@
 ----------------------------------+---------------------------------
 
 **jinja code**                                  
-
 {{data}}                                        
 
 **Python code**
@@ -43,7 +42,6 @@ for i in sequence:
 ----------------------------------+---------------------------------
 
 step 1: Suppose we have database(dictionary):
-
 data = {1:{'name':'Tom', 'roll': 1, 'marks':77},
         2:{'name':'Harry', 'roll': 2, 'marks':66},
         3:{'name':'Pavan', 'roll': 3, 'marks':88},
@@ -79,8 +77,9 @@ step 6: jinjaproject -> settings.py
 
 "Add template app in settings.py"
 e.g. "settings.py"
-    # Application definition
 
+
+    # Application definition
     INSTALLED_APPS = [
         'django.contrib.admin',
         'django.contrib.auth',

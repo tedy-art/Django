@@ -1,5 +1,6 @@
 **jinja 2 templates in html**
 ->  if we want to execute python line logic in HTML then use jinja 2 templates.
+----------------------------------+---------------------------------
 
 **jinja code**                                  
 
@@ -7,6 +8,7 @@
 
 **Python code**
 print(data)
+----------------------------------+---------------------------------
                                   
 **jinja code**                                  
 {% if condition %}                              
@@ -20,6 +22,7 @@ if condtion:
      logic    
 else: 
     logic       
+----------------------------------+---------------------------------
 
 **Jinja code**                            
 {% for i in sequence%}                          
